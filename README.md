@@ -14,10 +14,14 @@ This project focuses on building a machine learning model to predict employee tu
 
 # Project Highlights
 -Interactive Visualizations: Gain insights into factors influencing attrition.
+
 -Predictive Analytics: Use state-of-the-art algorithms to identify at-risk employees.
+
 -Deployment-Ready: Real-time predictions with an easy-to-use interface for HR teams.
 
 # Technologies
 Languages: Python
+
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Flask/FastAPI
+
 Tools: MLflow, DVC, Streamlit/Dash for visualizations
