@@ -3,9 +3,13 @@ This project focuses on building a machine learning model to predict employee tu
 
 # Features
 -Comprehensive data preprocessing and exploratory data analysis (EDA).
+
 -Advanced feature engineering to enhance predictive power.
+
 -Development and optimization of machine learning models for attrition prediction.
+
 -Deployment of the best-performing model as a web service or API.
+
 -MLOps integration for monitoring, scalability, and retraining.
 
 # Project Highlights
