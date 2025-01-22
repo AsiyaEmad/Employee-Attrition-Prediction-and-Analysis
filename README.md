@@ -43,3 +43,6 @@ We are using the following datasets for this project:
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for suggestions.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
