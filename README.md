@@ -30,7 +30,7 @@ We are using the following datasets for this project:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/employee-attrition-prediction.git
+   git clone https://github.com/AsiyaEmad/Employee-Attrition-Prediction-and-Analysis.git
    ```
 2. Install dependencies:
    ```bash
