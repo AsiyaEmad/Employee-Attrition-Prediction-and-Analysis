@@ -9,7 +9,7 @@ We are using the following datasets for this project:
 
 ## Team
 **Team Name**: Workforce Wizards  
-**Team Members**: Asiya, Mariam, Eyad, Basant, and Rehab
+**Team Members**: Asiya, Mariam, Basant, and Rehab
 
 ## Features
 - **EDA & Feature Engineering**: Understand key patterns and engineer impactful features.
